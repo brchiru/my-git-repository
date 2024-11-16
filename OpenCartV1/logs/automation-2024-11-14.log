@@ -1,0 +1,58 @@
+2024-11-14 11:37:50.692 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/br_chiru/Documents/IntelliJ/SeleniumPractice/OpenCartV1/testng.xml
+
+2024-11-14 11:37:54.685 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:37:54.711 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:37:54.736 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:38:02.360 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:38:03.363 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:38:04.674 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:38:23.245 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:38:43.439 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/br_chiru/Documents/IntelliJ/SeleniumPractice/OpenCartV1/testng.xml
+
+2024-11-14 11:39:06.301 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:39:06.343 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:39:06.790 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:39:13.942 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:39:15.317 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:39:16.322 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:39:28.449 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:40:02.044 INFO  testCases.TC003_LoginDDT - ***************End TC003 Login Data Driven Test Case**********
+2024-11-14 11:40:13.148 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:40:13.176 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:40:14.101 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:40:18.781 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:40:21.905 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:40:21.973 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:40:27.699 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:40:30.487 INFO  testCases.TC003_LoginDDT - ***************End TC003 Login Data Driven Test Case**********
+2024-11-14 11:40:30.488 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:40:30.511 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:40:30.964 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:40:36.278 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:40:36.279 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:40:36.333 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:40:47.369 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:40:59.422 INFO  testCases.TC003_LoginDDT - ***************End TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:08.435 INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/br_chiru/Documents/IntelliJ/SeleniumPractice/OpenCartV1/testng.xml
+
+2024-11-14 11:50:23.655 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:23.687 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:50:24.071 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:50:26.077 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:50:26.080 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:50:26.208 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:50:26.810 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:50:38.851 INFO  testCases.TC003_LoginDDT - ***************End TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:38.853 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:38.883 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
+2024-11-14 11:50:39.324 INFO  testCases.TC003_LoginDDT - User Clicks on Myaccount - Login
+2024-11-14 11:50:41.326 INFO  testCases.TC003_LoginDDT - User landed on LoginPage
+2024-11-14 11:50:41.327 INFO  testCases.TC003_LoginDDT - User enter username...
+2024-11-14 11:50:41.391 INFO  testCases.TC003_LoginDDT - User enter Password...
+2024-11-14 11:50:42.359 INFO  testCases.TC003_LoginDDT - User clicked on Login Button
+2024-11-14 11:50:45.163 INFO  testCases.TC003_LoginDDT - ***************End TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:45.164 INFO  testCases.TC003_LoginDDT - ***************Starting TC003 Login Data Driven Test Case**********
+2024-11-14 11:50:45.197 INFO  testCases.TC003_LoginDDT - Clicked on MyAccount Link
